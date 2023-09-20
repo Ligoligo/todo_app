@@ -5,4 +5,4 @@ jobs:
   say-hello:
 	runs-on: ubuntu-latest
 	steps: 
-	 - run echo "We are amazing"
+	 - run: echo "We are amazing"
